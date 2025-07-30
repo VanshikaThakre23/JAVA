@@ -20,3 +20,4 @@ public class stringCompression {
         String str = "aaabbbbccddd";
 
         System.out.println(compressString(str));
+    }
