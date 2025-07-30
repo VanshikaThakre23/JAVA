@@ -21,3 +21,4 @@ public class stringCompression {
 
         System.out.println(compressString(str));
     }
+}
